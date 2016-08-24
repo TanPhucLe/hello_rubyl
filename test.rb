@@ -1,3 +1,1 @@
-puts "Hello Ruby!"
-
-puts "This is main Ruby Program"
+puts "Hello World!"
